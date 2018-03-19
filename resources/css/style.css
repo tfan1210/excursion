@@ -16,7 +16,7 @@ body {
   font-family: Verdana;
 }
 
-video {
+video { 
   object-fit: contain;
 }
 
